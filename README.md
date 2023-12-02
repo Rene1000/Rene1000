@@ -29,4 +29,15 @@ continuously learning, wanting to help the community
 
 </p>
 
+## Contact me
+<p align="center">
+ 
+  <a href="https://www.linkedin.com/in/rene-ramos-90a03b208/">
+    <img src="https://img.icons8.com/?size=64&id=44019&format=png" height="35px" style="margin: 5px;" />
+  </a>
+ 
+  <a href="rcrene108@gmail.com">
+    <img src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png" height="30px" style="margin: 5px;" />
+  </a>
+</p>
 
