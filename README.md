@@ -1,4 +1,4 @@
-### Welcome to my profile! 👋
+# Welcome to my profile! 👋
 </br>
 <p align="center">
   <img src="https://media.tenor.com/EJ5ezT8nTdoAAAAC/hello-there-obi-wan.gif" alt="obiwan">
@@ -6,9 +6,7 @@
 <br/>
 <br/>
 
----
-
-### About me 
+## About me 
 
 <p align="center" >
   <samp>
@@ -21,6 +19,14 @@ continuously learning, wanting to help the community
   <br/>
 </p>
 
+## Technologies I use or have used
+<p align="center">
+  
+  [![languages](https://skillicons.dev/icons?i=php,java,js,py&theme=light)](https://skillicons.dev)<br />
+  [![libraries](https://skillicons.dev/icons?i=html,css,mysql,bootstrap&theme=light)](https://skillicons.dev)<br />
+  [![frameworks](https://skillicons.dev/icons?i=flask&theme=light)](https://skillicons.dev)<br />
+  [![technologies](https://skillicons.dev/icons?i=linux,git,figma,postman&theme=light)](https://skillicons.dev)<br />
 
+</p>
 
 
