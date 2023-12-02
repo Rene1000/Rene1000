@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello there 👋
+<img src="/img/gigsito.gif" align="right"  width="30%"/>
+<p align="center" >
+  <samp>
+    My name is <em>René</em>. I am 22 years old, and I am currently studying Information Technologies with a specialization in software development.
+      </br>
+continuously learning, wanting to help the community
+  </samp>
+  <br/>
+  <br/>
+  <br/>
+</p>
 
-<!--
-**Rene1000/Rene1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
