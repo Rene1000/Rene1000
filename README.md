@@ -24,7 +24,7 @@ continuously learning, wanting to help the community
   
   [![languages](https://skillicons.dev/icons?i=php,java,js,py&theme=light)](https://skillicons.dev)<br />
   [![libraries](https://skillicons.dev/icons?i=html,css,mysql,bootstrap&theme=light)](https://skillicons.dev)<br />
-  [![frameworks](https://skillicons.dev/icons?i=flask,linux,git,figma&theme=light)](https://skillicons.dev)<br />
+  [![frameworks](https://skillicons.dev/icons?i=linux,git,figma&theme=light)](https://skillicons.dev)<br />
  
 
 </p>
