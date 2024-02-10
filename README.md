@@ -32,7 +32,7 @@ continuously learning, wanting to help the community
 ## Stats
 <div>
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Rene1000&show_icons=true&title_color=ffffff&text_color=ffffff&border_color=ffffff&icon_color=ffffff&border_radius=2&bg_color=DEG,228dc3,fdbb2d" />
-  <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrimsonn&hide_progress=true&title_color=ffffff&text_color=ffffff&border_color=ffffff&icon_color=ffffff&border_radius=2&bg_color=DEG,fdbb2d,228dc3" />
+  <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rene1000&hide_progress=true&title_color=ffffff&text_color=ffffff&border_color=ffffff&icon_color=ffffff&border_radius=2&bg_color=DEG,fdbb2d,228dc3" />
 </div>
 
 ## Contact me
